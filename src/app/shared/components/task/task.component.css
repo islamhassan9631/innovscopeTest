@@ -1,0 +1,53 @@
+.task{
+    background-color: #ffffff;
+    max-height: 85px !important;
+    border-radius: 10px;
+}
+.play{
+    width: 35px;
+    height: 35px;
+    color: #5051f9;
+}
+.start{
+    width: 220px;
+    height: 85px;
+    text-align: center;
+}
+.time{
+   color: #778399;
+}
+.schedule {
+    color: #778399;
+}
+
+.alarm{
+    width: 136px;
+    height: 39px;
+    border-radius: 9px;
+    background-color: #EDECFE;
+    color: #5051F9;
+    text-align: center;
+    margin: auto;
+}
+.complete{
+   width: 150px;
+   height: 42px;
+   border-radius: 6px;
+   margin: auto;
+}
+
+.bg{
+    background-color: #23B2FF;
+}
+.search span{
+color: #95A4BB;
+}
+.link{
+    color: #5453F6 !important;
+}
+.rectangle{
+    background-color: #FBFAFF;
+}
+.reminder{
+    margin-top: 8px;
+}

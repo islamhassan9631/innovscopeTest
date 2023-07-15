@@ -1,0 +1,29 @@
+.calendar{
+    background-color: #F4F4F4;
+    border-radius: 15%;
+   
+    width:
+78px;
+height:
+29px
+}
+.calendar span{
+    margin: 4px;
+    height: 14px;
+    width: 14px;
+}
+
+.group27 img{
+    width: 100%;
+}
+.group27{
+    background-color: #5051F9;
+    
+height:
+68px;
+
+border-radius: 10px;
+margin-left: 4px;
+color: #ffffff;
+
+}

@@ -1,0 +1,33 @@
+.card{
+    background-color: white;
+    width:
+333px;
+height:
+210px;
+border: none;
+}
+
+mat-divider{
+ margin: auto;
+ margin-bottom: 0 !important;
+    width:
+233px;
+height: 1px;
+color: #E8EDF1;
+}
+h5{
+    font-size: 16px;
+    color: #8C97A8;
+}
+.total{
+    font-size: 22px;
+    color: #1E1E1E;
+margin-left: 10px;
+}
+mat-icon{
+    width: 34px;
+    height: 34px;
+   
+    background-color: transparent;
+}
+

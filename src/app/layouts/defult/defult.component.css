@@ -1,0 +1,41 @@
+/* :host{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+} */
+.bg{
+     background-color:#F3F4F8;
+    width:100%
+}
+.side{
+    width: 94px;
+    height: 1024;
+    background-color:#FBFAFF
+    ;
+  padding-left: 17px;
+}
+mat-drawer-container{
+    height: 100%;
+  padding:0;
+
+}
+mat-drawer-content{
+   
+}
+.header{
+    padding:0;
+    width: 1489px;;
+    
+}
+
+.outlet{
+    align-items: center;
+    padding-left: 17px;
+}
+.right{
+    background-color: white !important;
+}
+.dash{
+    background-color: lightgray !important;
+}

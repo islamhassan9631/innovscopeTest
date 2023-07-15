@@ -1,0 +1,9 @@
+.dashbord{
+   margin: auto;
+}
+
+.chart{
+    background-color: #ffffff;
+    height: 300px;
+    border-radius: 16px;
+}

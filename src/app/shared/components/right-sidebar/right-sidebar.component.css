@@ -1,0 +1,29 @@
+
+ .mat-icon{
+        vertical-align: middle;
+        margin-right: 20px;
+    }
+
+
+
+.profile-card{
+    text-align: center;
+    padding:0 20px 20px 20px;
+   
+}
+
+.subheader{
+    margin-left: 10px;
+    color: lightgrey;
+    
+}
+.wit{
+   
+    background-color: white !important;
+    max-width: 396px !important;
+    max-height: 948px !important;
+}
+mat-divider{
+    width: 80%;
+    margin: auto;
+}

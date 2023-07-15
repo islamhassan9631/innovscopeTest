@@ -1,0 +1,9 @@
+
+
+<h4 class="titel mt-2 mb-3">Task Done</h4>
+<canvas baseChart class="chart"
+        [data]="lineChartData"
+        [options]="lineChartOptions"
+        [type]="lineChartType"
+        (chartHover)="chartHovered($event)"
+        (chartClick)="chartClicked($event)"></canvas>

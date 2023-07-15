@@ -1,0 +1,49 @@
+ul li {
+    list-style: none;
+}
+
+.bg {
+    background-color: #ffffff;
+    color: #fff !important;
+    height: 76px !important;
+    width:100% !important;
+/* 1346  */
+}
+
+.mt {
+    margin-top: 4px !important;
+}
+
+mat-icon {
+    color: black;
+    background-color: transparent;
+}
+
+.img {
+    width: 50px;
+}
+
+.img img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+input {
+    background-color: rgba(243, 247, 250, 1);
+    border: none;
+    width:
+        290px;
+    height:
+        44px;
+    top:
+        16px;
+    left:
+        134px;
+    border-radius:
+        7px;
+        padding-left: 12px;
+        margin-left: 15px;
+}
+mat-toolbar-row{
+    height: 76px !important;
+}

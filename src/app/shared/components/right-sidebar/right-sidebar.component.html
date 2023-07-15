@@ -1,0 +1,13 @@
+<mat-nav-list class="wit">
+    <div class="container mt-3 mb-4"><app-scheudle></app-scheudle></div>
+   
+    <mat-divider></mat-divider>
+    <div  class="container">
+        <h1>Message</h1>
+    </div>
+   <div class="container mt-3 mb-4"  *ngFor="let message of messages"><app-messagebox  [Message]="message"></app-messagebox></div>
+   <div  class="container">
+  <app-add-task></app-add-task>
+    
+</div>
+</mat-nav-list>
