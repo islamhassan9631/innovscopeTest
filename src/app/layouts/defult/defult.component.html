@@ -1,16 +1,16 @@
-<div class="row  bg">
-  <div class="col-1 side">
+<div class="row  bg flex-column  flex-sm-row">
+  <div class="col-1 side ">
     <app-left-sidebar></app-left-sidebar>
   </div>
   <div class="col-md-11 col-lg-11 col-sm-12 header">
     <app-header></app-header>
     <div class="row ">
-      <div class="col-9 ">
+      <div class="col-md-9 col-sm-12 ">
         <div class="outlet">
           <router-outlet></router-outlet>
         </div>
       </div>
-      <div class="col-3">
+      <div class="col-md-3 col-sm-12">
         <div class="right">
           <app-right-sidebar></app-right-sidebar>
         </div>
