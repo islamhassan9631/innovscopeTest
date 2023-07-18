@@ -6,4 +6,8 @@
     background-color: #ffffff;
     height: 300px;
     border-radius: 16px;
+    position:relative
+}
+.task h4{
+    margin-left:3px
 }

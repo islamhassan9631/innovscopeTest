@@ -61,7 +61,8 @@ import { HighchartsChartModule } from "highcharts-angular";
       ReactiveFormsModule,
       MatCardModule,
      HighchartsChartModule,
-     NgChartsModule
+     NgChartsModule,
+
     ],
     exports:[
       HeaderComponent,
